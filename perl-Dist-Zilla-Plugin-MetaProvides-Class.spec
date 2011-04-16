@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 1
+Release:    %mkrel 2
 
 Summary:    Scans Dist::Zilla's .pm files and tries to identify classes using Class::Discover
 License:    GPL+ or Artistic
